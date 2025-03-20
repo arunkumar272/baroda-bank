@@ -1,0 +1,1 @@
+Software Engineering is a subdomain of Engineering in which you learn to develop, design, test, and maintain software using a systematic and structured approach. Software is a collection of programs. And that programs are developed by software engineers. The code of a program is written in any of various programming languages like C++, Java, Python, Django, etc.
